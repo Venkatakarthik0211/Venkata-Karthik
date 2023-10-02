@@ -1,8 +1,10 @@
 <body>
+      <h1> Hi 👋 ~✰ I'm Karthik</h1>
+  <h2>About Me</h2>
+  <p>Highly motivated and dedicated undergrad with a passion for excelling in Cloud Computing, Networks, and Security domains. </p>
   
   <div>
     <div>
-      <h1> Hi 👋 ~✰ I'm Karthik</h1>
     </div>
       <div>
       <h2>Skills</h2> 
@@ -51,4 +53,18 @@
 
 
 <br>
+<h2>Certificationss</h2>
+<br>
+
+| Certification           | Issuer                                                  | Expiry                                                          |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **AWS certified Practitioner**               | Amazon   |  JUL 2026 |
+| **AWS certified Solutions Architect**        | Amazon   | JUL 2026 |
+| **Azure certified Azure Fundamentals**        | Microsoft   | JUN 2026 |
+
+
+
+
+<br>
+
 </body>
