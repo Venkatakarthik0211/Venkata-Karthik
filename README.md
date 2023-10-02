@@ -11,7 +11,6 @@
         <table width="100%">
   <tr>
     <td width="50%">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataKarthik0211&layout=pie" width="100%">
     </td>
     <td width="50%">
   <table>
