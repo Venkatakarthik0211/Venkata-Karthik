@@ -15,22 +15,22 @@
     <td width="50%">
   <table>
     <tr>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/kubernetes-icon-2048x1995-r1q3f8n7.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/ansible-icon-2048x2048-ba8ueimn.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/docker.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/aws.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/kubernetes-icon-2048x1995-r1q3f8n7.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/ansible-icon-2048x2048-ba8ueimn.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/docker.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/aws.png" height="100" width="100"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/Untitled.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/images.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/acer-logo-vmware-esxi-benq-w1070-acer-h6510bd-hyperv-multimedia-projectors-television-vmware-vsphere-png-clipart.jpg" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/sql.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/Untitled.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/images.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/acer-logo-vmware-esxi-benq-w1070-acer-h6510bd-hyperv-multimedia-projectors-television-vmware-vsphere-png-clipart.jpg" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/sql.png" height="100" width="100"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/5968267.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/javascript-shield-logo-icon-2.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/5968242.png" height="100" width="100"></td>
-      <td><img src="https://github.com/Venkatakarthik0211/spring/tree/test/java-basics/profile_images_and_icons/php.svg" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/5968267.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/javascript-shield-logo-icon-2.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/5968242.png" height="100" width="100"></td>
+      <td><img src="https://github.com/Venkatakarthik0211/spring/blob/test/java-basics/profile_images_and_icons/php.svg" height="100" width="100"></td>
     </tr>
   </table>
     </td>
